@@ -1,4 +1,4 @@
-% Charger l'image 'trui'
+% Charger l'image 'trui' if png doesnt work use .tif
 trui = imread('trui.png');
 
 % Calculer la transformée de Fourier
